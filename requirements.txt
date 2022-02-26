@@ -1,0 +1,4 @@
+google-cloud-speech
+autopep8
+pylint
+pytest
